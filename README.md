@@ -59,7 +59,7 @@ Automatische aanmaak en update van OpenMetadata dashboards + lineage op basis va
 
 **Meer info**
 
-- [Projectcontext](lineage.md)
+- [Projectcontext](Lineage.md)
 
 ---
 
