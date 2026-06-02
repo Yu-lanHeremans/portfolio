@@ -8,7 +8,7 @@
 
 ## Over dit portfolio
 
-Dit portfolio is een tool om jezelf te promoten, kenbaar te maken en te gebruiken bij sollicitaties. Toekomstige werkgevers screenen kandidaten vaak al vóór een eerste gesprek via online aanwezigheid (sociale media, andere kanalen). Google jezelf eens en bekijk het resultaat: vaak staat er info die eerder tot de privésfeer behoort. Met dit portfolio geef je **gecontroleerde informatie** over jezelf vrij.
+In dit portfolio licht ik mijn technische skills toe en geef ik enkele concrete projecten, waaraan ik gewerkt heb.
 
 ## Profiel
 
@@ -67,9 +67,9 @@ Automatische aanmaak en update van OpenMetadata dashboards + lineage op basis va
 
 - **Digitale Elektriciteitsmeter** — Datawarehouse, ML‑analyses en Power BI dashboards
 - **Aanwezigheid studenten** — Data cleaning, ML en rapportering via wifi‑API data
-- **Kijkcijfers VRT** — ML‑model voor voorspelling van kijkcijfertrends
+- **Kijkcijfers VRT** — ML‑model voor voorspelling van kijkcijfertrends (Zie [kijkcijfers/project-kijkcijfers.ipynb](kijkcijfers/project-kijkcijfers.ipynb))
 - **Webshop backend** — REST API met focus op testing en security
-- **Alhambra the dice game** — Java‑game met OOP‑focus
+- **Alhambra the dice game** — Java‑game met OOP‑focus (Zie [alhambra/README.md](alhambra/README.md))
 
 ## Werkervaring
 
